@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 📌 GitHub Stats And Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vildntn&layout=compact)](https://github.com/vildntn/github-readme-stats)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=vildntn&show_icons=true&theme=radical)
+
 
 
