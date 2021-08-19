@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ![GitHub stars](https://img.shields.io/github/stars/vildntn?style=social)
 <!--![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvildntn.vildntn%2Freadme)-->
 ## 📌 GitHub Stats And Top Languages
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=vildntn&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vildntn&layout=compact)](https://github.com/vildntn/github-readme-stats)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=vildntn&show_icons=true&theme=onedark)
+![Most Used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vildntn&layout=compact&theme=onedark)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vildntn&layout=compact)](https://github.com/vildntn/github-readme-stats)-->
 
 
 
