@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vildan 👋
 
 <!--
 **vildntn/vildntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p float="center">
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=vildntn&show_icons=true&theme=radical)
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vildntn&layout=compact&hide=html,css" alt="Top Langs" />
+</p>
